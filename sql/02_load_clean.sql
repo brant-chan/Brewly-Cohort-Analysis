@@ -1,0 +1,2 @@
+CREATE OR REPLACE TABLE users  AS SELECT * FROM ref_users;
+CREATE OR REPLACE TABLE orders AS SELECT * FROM ref_orders;
